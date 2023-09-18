@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use these files, please cite it as below."
+authors:
+- family-names: "Dar"
+  given-names: "Aaditya"
+title: "India Bridge: Crosswalks for Bihar"
+version: 1.0.0
+date-released: 2023-09-18
+url: "https://github.com/aadityadar/crosswalks-bihar"
